@@ -11,7 +11,7 @@ const Posts = ({ getPosts, post: { posts, loading } }) => {
     getPosts();
   }, [getPosts]);
 
-  return <div></div>;
+  return loading ? <Spinner /> : <Fragment>Testing...</Fragment>;
 };
 
 Posts.propTypes = {

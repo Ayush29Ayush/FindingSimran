@@ -6,11 +6,7 @@ and interesting insights and grow together.
 
 ## Demo Video
 
-https://drive.google.com/file/d/1WKxEeigzwCQ5RqFi_dxedhCADOBSNiCu/view?usp=share_link
-
-https://youtu.be/qTAxpsAI_b0
-
-| Plugin | README |
+| Platform | Video Link |
 | ------ | ------ |
 | Drive | [https://drive.google.com/file/d/1WKxEeigzwCQ5RqFi_dxedhCADOBSNiCu/view?usp=share_link][] |
 | YouTube | [https://youtu.be/qTAxpsAI_b0][PlGh] |

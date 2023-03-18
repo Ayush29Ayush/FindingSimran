@@ -4,7 +4,7 @@ FindingSimran is a social media platform for developers all around the world to 
 and interesting insights and grow together.
 
 
-## Demo Video
+# Demo Video
 
 | Platform | Video Link |
 | ------ | ------ |

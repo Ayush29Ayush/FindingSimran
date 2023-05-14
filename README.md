@@ -9,8 +9,8 @@ and interesting insights and grow together.
 | Platform | Video Link |
 | ------ | ------ |
 | App Link | https://findingsimran.onrender.com/ |
-| Drive | [https://drive.google.com/file/d/1WKxEeigzwCQ5RqFi_dxedhCADOBSNiCu/view?usp=share_link] |
-| YouTube | [https://youtu.be/qTAxpsAI_b0] |
+| Drive | https://drive.google.com/file/d/1WKxEeigzwCQ5RqFi_dxedhCADOBSNiCu/view?usp=share_link |
+| YouTube | https://youtu.be/qTAxpsAI_b0 |
 
 # Technologies/Methodologies Used 
 
